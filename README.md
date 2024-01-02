@@ -71,5 +71,5 @@ The primary audience for this website are pet owners who need services for their
 - The website validates user inputs in the sign-up and login pages to ensure data integrity and security.
 
   
-© `<Sarah-Alshumayri>`, `<samalshumayri@effat.edu.sa>`, and `<2022>`.
+© `<Sarah-Alshumayri>`, `<samalshumayri@gmail.com >`, and `<2022>`.
 
